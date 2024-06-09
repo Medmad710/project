@@ -1,0 +1,1 @@
+BOTTOKEN = "7185977682:AAG7e_FthtcXscFEaeijG4cx_aWpA6h3gfY"
